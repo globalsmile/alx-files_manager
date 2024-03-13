@@ -1,15 +1,14 @@
-This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
+# 0x15. Files manager
 
-The objective is to build a simple platform to upload and view files:
+Repository containing projects developed by Juan Esteban Correa Pérez as part of the Web Stack specialization program at Holberton School.<br>
 
-User authentication via a token
-List all files
-Upload a new file
-Change permission of a file
-View a file
-Generate thumbnails for images
-You will be guided step by step for building it, but you have some freedoms of implementation, split in more files etc… (utils folder will be your friend)
+This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.<br>
 
-Of course, this kind of service already exists in the real life - it’s a learning purpose to assemble each piece and build a full product.
+The objective is to build a simple platform to upload and view files:<br>
 
-Enjoy!
+User authentication via a token<br>
+List all files<br>
+Upload a new file<br>
+Change permission of a file<br>
+View a file<br>
+Generate thumbnails for images<br>
