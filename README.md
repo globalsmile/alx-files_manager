@@ -1,6 +1,6 @@
-# 0x15. Files manager
+# Files manager
 
-Repository containing projects developed by Juan Esteban Correa Pérez as part of the Web Stack specialization program at Holberton School.<br>
+Repository containing projects developed by Mohammed Badmus as part of the Web Stack specialization program at ALX.<br>
 
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.<br>
 
